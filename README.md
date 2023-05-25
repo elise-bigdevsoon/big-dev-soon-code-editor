@@ -23,7 +23,7 @@ Create an application that provides HTML/CSS/JS tabs for writing and previewing 
 - [ ] Implement view switching options: left/right (code/preview), top/down (code/preview), right/left (preview/code).
 - [ ] Integrate a Code Editor library that provides features like line numbering, syntax highlighting, and UX optimizations.
 - [ ] Ensure the application is fully responsive for desktop, tablet, and mobile devices.
-- [ ] Handle additional cases such as loading 3rd party libraries in HTML code, code linting, and line wrapping.
+- [ ] Handle additional cases such as loading 3rd party libraries in HTML code or remembering the entered code after browser refresh.
 
 ## Guidelines
 
