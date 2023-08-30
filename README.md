@@ -2,7 +2,7 @@
 
 Application that provides HTML/CSS/JS tabs with live code preview.
 
-![Code Editor Project preview image](https://github.com/elise-bigdevsoon/big-dev-soon-code-editor/blob/main/project-preview.png)
+![Code Editor Project preview image](https://github.com/elise-bigdevsoon/big-dev-soon-code-editor/blob/main/project-preview.png?raw=true)
 
 ## Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
